@@ -3,7 +3,7 @@ span {
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 0 10px 25px 10px;
+  border-width: 0 2px 5px 2px;
   border-color: transparent transparent #5a9ad6 transparent;
   border-radius: 80%;
   filter: blur(2px); }
@@ -13,203 +13,203 @@ body {
 
 span:nth-child(1) {
   left: 43%;
-  animation: rain-fall 1s linear -0.1s infinite; }
+  animation: rain-fall 0.7s linear -0.1s infinite; }
 
 span:nth-child(2) {
   left: 26%;
-  animation: rain-fall 1s linear -0.2s infinite; }
+  animation: rain-fall 0.7s linear -0.2s infinite; }
 
 span:nth-child(3) {
   left: 7%;
-  animation: rain-fall 1s linear -0.3s infinite; }
+  animation: rain-fall 0.7s linear -0.3s infinite; }
 
 span:nth-child(4) {
   left: 22%;
-  animation: rain-fall 1s linear -0.4s infinite; }
+  animation: rain-fall 0.7s linear -0.4s infinite; }
 
 span:nth-child(5) {
   left: 84%;
-  animation: rain-fall 1s linear -0.5s infinite; }
+  animation: rain-fall 0.7s linear -0.5s infinite; }
 
 span:nth-child(6) {
   left: 39%;
-  animation: rain-fall 1s linear -0.6s infinite; }
+  animation: rain-fall 0.7s linear -0.6s infinite; }
 
 span:nth-child(7) {
   left: 98%;
-  animation: rain-fall 1s linear -0.7s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(8) {
   left: 58%;
-  animation: rain-fall 1s linear -0.8s infinite; }
+  animation: rain-fall 0.7s linear -0.8s infinite; }
 
 span:nth-child(9) {
   left: 50%;
-  animation: rain-fall 1s linear -0.9s infinite; }
+  animation: rain-fall 0.7s linear -0.9s infinite; }
 
 span:nth-child(10) {
   left: 60%;
-  animation: rain-fall 1s linear -1s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(11) {
   left: 91%;
-  animation: rain-fall 1s linear -0.1s infinite; }
+  animation: rain-fall 0.7s linear -0.1s infinite; }
 
 span:nth-child(12) {
   left: 31%;
-  animation: rain-fall 1s linear -0.2s infinite; }
+  animation: rain-fall 0.7s linear -0.2s infinite; }
 
 span:nth-child(13) {
   left: 52%;
-  animation: rain-fall 1s linear -0.3s infinite; }
+  animation: rain-fall 0.7s linear -0.3s infinite; }
 
 span:nth-child(14) {
   left: 50%;
-  animation: rain-fall 1s linear -0.4s infinite; }
+  animation: rain-fall 0.7s linear -0.4s infinite; }
 
 span:nth-child(15) {
   left: 32%;
-  animation: rain-fall 1s linear -0.5s infinite; }
+  animation: rain-fall 0.7s linear -0.5s infinite; }
 
 span:nth-child(16) {
   left: 95%;
-  animation: rain-fall 1s linear -0.6s infinite; }
+  animation: rain-fall 0.7s linear -0.6s infinite; }
 
 span:nth-child(17) {
   left: 75%;
-  animation: rain-fall 1s linear -0.7s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(18) {
   left: 3%;
-  animation: rain-fall 1s linear -0.8s infinite; }
+  animation: rain-fall 0.7s linear -0.8s infinite; }
 
 span:nth-child(19) {
   left: 66%;
-  animation: rain-fall 1s linear -0.9s infinite; }
+  animation: rain-fall 0.7s linear -0.9s infinite; }
 
 span:nth-child(20) {
   left: 93%;
-  animation: rain-fall 1s linear -1s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(21) {
   left: 46%;
-  animation: rain-fall 1s linear -0.1s infinite; }
+  animation: rain-fall 0.7s linear -0.1s infinite; }
 
 span:nth-child(22) {
   left: 42%;
-  animation: rain-fall 1s linear -0.2s infinite; }
+  animation: rain-fall 0.7s linear -0.2s infinite; }
 
 span:nth-child(23) {
   left: 81%;
-  animation: rain-fall 1s linear -0.3s infinite; }
+  animation: rain-fall 0.7s linear -0.3s infinite; }
 
 span:nth-child(24) {
   left: 22%;
-  animation: rain-fall 1s linear -0.4s infinite; }
+  animation: rain-fall 0.7s linear -0.4s infinite; }
 
 span:nth-child(25) {
   left: 55%;
-  animation: rain-fall 1s linear -0.5s infinite; }
+  animation: rain-fall 0.7s linear -0.5s infinite; }
 
 span:nth-child(26) {
   left: 92%;
-  animation: rain-fall 1s linear -0.6s infinite; }
+  animation: rain-fall 0.7s linear -0.6s infinite; }
 
 span:nth-child(27) {
   left: 46%;
-  animation: rain-fall 1s linear -0.7s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(28) {
   left: 48%;
-  animation: rain-fall 1s linear -0.8s infinite; }
+  animation: rain-fall 0.7s linear -0.8s infinite; }
 
 span:nth-child(29) {
   left: 3%;
-  animation: rain-fall 1s linear -0.9s infinite; }
+  animation: rain-fall 0.7s linear -0.9s infinite; }
 
 span:nth-child(30) {
   left: 70%;
-  animation: rain-fall 1s linear -1s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(31) {
   left: 88%;
-  animation: rain-fall 1s linear -0.1s infinite; }
+  animation: rain-fall 0.7s linear -0.1s infinite; }
 
 span:nth-child(32) {
   left: 1%;
-  animation: rain-fall 1s linear -0.2s infinite; }
+  animation: rain-fall 0.7s linear -0.2s infinite; }
 
 span:nth-child(33) {
   left: 35%;
-  animation: rain-fall 1s linear -0.3s infinite; }
+  animation: rain-fall 0.7s linear -0.3s infinite; }
 
 span:nth-child(34) {
   left: 35%;
-  animation: rain-fall 1s linear -0.4s infinite; }
+  animation: rain-fall 0.7s linear -0.4s infinite; }
 
 span:nth-child(35) {
   left: 26%;
-  animation: rain-fall 1s linear -0.5s infinite; }
+  animation: rain-fall 0.7s linear -0.5s infinite; }
 
 span:nth-child(36) {
   left: 45%;
-  animation: rain-fall 1s linear -0.6s infinite; }
+  animation: rain-fall 0.7s linear -0.6s infinite; }
 
 span:nth-child(37) {
   left: 3%;
-  animation: rain-fall 1s linear -0.7s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(38) {
   left: 100%;
-  animation: rain-fall 1s linear -0.8s infinite; }
+  animation: rain-fall 0.7s linear -0.8s infinite; }
 
 span:nth-child(39) {
   left: 21%;
-  animation: rain-fall 1s linear -0.9s infinite; }
+  animation: rain-fall 0.7s linear -0.9s infinite; }
 
 span:nth-child(40) {
   left: 97%;
-  animation: rain-fall 1s linear -1s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(41) {
   left: 95%;
-  animation: rain-fall 1s linear -0.1s infinite; }
+  animation: rain-fall 0.7s linear -0.1s infinite; }
 
 span:nth-child(42) {
   left: 63%;
-  animation: rain-fall 1s linear -0.2s infinite; }
+  animation: rain-fall 0.7s linear -0.2s infinite; }
 
 span:nth-child(43) {
   left: 7%;
-  animation: rain-fall 1s linear -0.3s infinite; }
+  animation: rain-fall 0.7s linear -0.3s infinite; }
 
 span:nth-child(44) {
   left: 62%;
-  animation: rain-fall 1s linear -0.4s infinite; }
+  animation: rain-fall 0.7s linear -0.4s infinite; }
 
 span:nth-child(45) {
   left: 40%;
-  animation: rain-fall 1s linear -0.5s infinite; }
+  animation: rain-fall 0.7s linear -0.5s infinite; }
 
 span:nth-child(46) {
   left: 58%;
-  animation: rain-fall 1s linear -0.6s infinite; }
+  animation: rain-fall 0.7s linear -0.6s infinite; }
 
 span:nth-child(47) {
   left: 34%;
-  animation: rain-fall 1s linear -0.7s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 span:nth-child(48) {
   left: 57%;
-  animation: rain-fall 1s linear -0.8s infinite; }
+  animation: rain-fall 0.7s linear -0.8s infinite; }
 
 span:nth-child(49) {
   left: 94%;
-  animation: rain-fall 1s linear -0.9s infinite; }
+  animation: rain-fall 0.7s linear -0.9s infinite; }
 
 span:nth-child(50) {
   left: 32%;
-  animation: rain-fall 1s linear -1s infinite; }
+  animation: rain-fall 0.7s linear -1s infinite; }
 
 @keyframes rain-fall {
   from {
