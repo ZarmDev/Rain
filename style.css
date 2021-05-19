@@ -1,19 +1,19 @@
+/* DEPRECATED! Check out rain.scss */
+
 span {
   width: 1vw;
   height: 1.5vw;
-  position: fixed;
-  left: 20%;
-  border-radius: 50%;
-  /*
+  position: absolute;
+  border-radius: 70%;
   background: linear-gradient(
     35deg,
     #c0ecec,
     rgb(85, 124, 230)
   );
-  */
-  box-shadow: 20px 10px 5px rgb(123, 123, 255);
   animation: rain-fall infinite 1s;
+  left: 20%;
 }
+
 /* Background */
 body {
   background-color: rgb(222, 231, 231);

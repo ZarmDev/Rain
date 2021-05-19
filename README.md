@@ -1,0 +1,2 @@
+# 🌦 Pure (S)CSS raindrops ⛈
+An awesome raindrop simulation made with pure CSS (SCSS) by [@ZarmDev](https://replit.com/@ZarmDev) and [@nbbcsf](https://replit.com/@nbbcsf). To start use the SCSS (DON'T EDIT `rain.css`!!), fork the project and run `npm run sass:compile`. Now, whenver you make changes to your SCSS file, it will automatically be compiled the `rain.css`.

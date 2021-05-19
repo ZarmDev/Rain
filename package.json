@@ -1,0 +1,23 @@
+{
+  "name": "Rain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass:compile": "node-sass -w rain.scss rain.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZarmDev/Rain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZarmDev/Rain/issues"
+  },
+  "homepage": "https://github.com/ZarmDev/Rain#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
